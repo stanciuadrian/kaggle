@@ -1,0 +1,10 @@
+keras_applications
+pandas
+matplotlib
+jupyter
+tqdm
+tensorflow[and-cuda]<2.16
+keras
+pillow
+numpy<1.24
+keras<3
